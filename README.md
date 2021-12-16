@@ -11,7 +11,9 @@
 ### In your own words, what is 'truthiness' in JS?
 
 --- 
-## Conditionals 
+
+## Control Flow 
+ 
 ```js
 let age = prompt("Enter Your Age")
 /*
@@ -20,7 +22,6 @@ let age = prompt("Enter Your Age")
     - bonus: provide an alternative message if the answer is not a number
 */
 ```
-## Control Flow 
 ---
 
 ### Count down using a for loop
@@ -107,3 +108,27 @@ const starWars = ["wild","ratty","available","crack","straw","silk","wing","pict
 ---
 
 ## Object Review
+
+ 
+```js
+const SEIStudent = {};
+
+/*
+ * Populate the General Assembly SEI Student with the following properties:
+ * ID - Integer
+ * name - String
+ * age - Float/Integer
+ * location - String
+ * enrolled - Boolean
+ * previousJobs - Array
+ * interests - Object with properties:
+ *      hobbies - Array
+ *      canCook - Boolean
+ *      favoriteShows - []  
+ *      favoriteVideogame - String
+*/
+
+ // YOUR CODE HERE 
+ 
+```
+---
